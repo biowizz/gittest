@@ -2,4 +2,5 @@
 
 Add your name below:
 
-- Sandeep Mallya
+- Sandeep Mallya 
+- Sagnika Dutta
