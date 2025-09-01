@@ -1,6 +1,6 @@
-# Students List
+=# Students List
 
 Add your name below:
 
 - Sandeep Mallya
--Himabindu KR=
+Himabindu KR
